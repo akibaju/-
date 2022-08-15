@@ -1,0 +1,27 @@
+Microsoft Windows [Version 10.0.22000.856]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\user>cd C:\xampp\htdocs
+
+C:\xampp\htdocs>cd laravelpj
+
+C:\xampp\htdocs\laravelpj>
+
+C:\xampp\htdocs\laravelpj>php artisan make:controller TestController
+Controller already exists!
+
+C:\xampp\htdocs\laravelpj>php artisan serve
+Starting Laravel development server: http://127.0.0.1:8000
+[Tue Aug 16 06:37:54 2022] PHP 8.1.6 Development Server (http://127.0.0.1:8000) started
+^C
+C:\xampp\htdocs\laravelpj>doskey /h
+cd C:\xampp\htdocs
+cd laravelpj
+php artisan make:controller TestController
+php artisan serve
+doskey /h
+
+C:\xampp\htdocs\laravelpj>>
+The syntax of the command is incorrect.
+
+C:\xampp\htdocs\laravelpj>
